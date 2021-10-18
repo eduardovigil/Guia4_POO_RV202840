@@ -13,3 +13,4 @@ C:\Users\Eduardo\Desktop\Guia4_POO_RV22840\Guia4_POO_RV22840\obj\Debug\Guia4_POO
 C:\Users\Eduardo\Desktop\Guia4_POO_RV22840\Guia4_POO_RV22840\obj\Debug\Guia4_POO_RV22840.FrmFiguras.resources
 C:\Users\Eduardo\Desktop\Guia4_POO_RV22840\Guia4_POO_RV22840\obj\Debug\Guia4_POO_RV22840.FrmMenu.resources
 C:\Users\Eduardo\Desktop\Guia4_POO_RV22840\Guia4_POO_RV22840\obj\Debug\Guia4_POO_RV22840.FrmVehiculo.resources
+C:\Users\Eduardo\Desktop\Guia4_POO_RV22840\Guia4_POO_RV22840\obj\Debug\Guia4_POO_RV22840.FrmUniversidad.resources

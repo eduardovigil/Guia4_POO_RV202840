@@ -43,33 +43,33 @@ namespace Guia4_POO_RV22840
 
                 if (busqueda.Equals("todos")) // Si la busqueda es igual a todos, mostramos todos los datos
                 {
-                    dataGridView1.DataSource = alumn.Lista;
-                    dataGridView1.DataSource = uni.Lista;
-                    dataGridView1.DataSource = inge.Lista;
+                    dataGridView1.DataSource = alumn.Listass;
+                    dataGridView1.DataSource = uni.Listass;
+                    dataGridView1.DataSource = inge.Listass;
                 }
                 else if (busqueda.Equals("alumno"))
                 {
                     //Filtramos los datos de la lista tratando de buscar donde sea igual o el codigo o el nombre del 
-                    dataGridView1.DataSource = alumn.Lista.FindAll(x => x.Nombres.ToString().ToLower() == busqueda || x.Correo.ToLower() == busqueda);
+                    dataGridView1.DataSource = alumn.Listass;
                 }
                 else if (busqueda.Equals("universitario"))
                 {
                     //Filtramos los datos de la lista tratando de buscar donde sea igual o el codigo o el nombre 
-                    dataGridView1.DataSource = uni.Lista.FindAll(x => x.Nombres.ToString().ToLower() == busqueda || x.Telefono.ToLower() == busqueda);
+                    dataGridView1.DataSource = uni.Listass;
                 }
                 else if (busqueda.Equals("ingenieria"))
                 {
                     //Filtramos los datos de la lista tratando de buscar donde sea igual o el codigo o el nombre 
-                    dataGridView1.DataSource = inge.Lista.FindAll(x => x.Nombres.ToString().ToLower() == busqueda || x.Correo.ToLower() == busqueda);
+                    dataGridView1.DataSource = inge.Listass;
                 }
                 else
                 {
                     //Filtramos los datos de la lista tratando de buscar donde sea igual o el codigo o el nombre 
-                    dataGridView1.DataSource = alumn.Lista.FindAll(x => x.Nombres.ToString().ToLower() == busqueda || x.Correo.ToLower() == busqueda);
+                    dataGridView1.DataSource = alumn.Listass.FindAll(x => x.Nombres.ToString().ToLower() == busqueda || x.Correo.ToLower() == busqueda);
                     //Filtramos los datos de la lista tratando de buscar donde sea igual o el codigo o el nombre 
-                    dataGridView1.DataSource = uni.Lista.FindAll(x => x.Nombres.ToString().ToLower() == busqueda || x.Telefono.ToLower() == busqueda);
+                    dataGridView1.DataSource = uni.Listass.FindAll(x => x.Nombres.ToString().ToLower() == busqueda || x.Telefono.ToLower() == busqueda);
                     //Filtramos los datos de la lista tratando de buscar donde sea igual o el codigo o el nombre 
-                    dataGridView1.DataSource = inge.Lista.FindAll(x => x.Nombres.ToString().ToLower() == busqueda || x.Correo.ToLower() == busqueda);
+                    dataGridView1.DataSource = inge.Listass.FindAll(x => x.Nombres.ToString().ToLower() == busqueda || x.Correo.ToLower() == busqueda);
                 }
             }
         }
