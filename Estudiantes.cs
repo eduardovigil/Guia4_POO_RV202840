@@ -33,5 +33,72 @@ namespace Guia4_POO_RV22840
             set { edad = value; }
         }
     }
-
+    public class Alumno: Estudiante
+    {
+        int nCarnet;
+        public int Carnet
+        {
+            get { return nCarnet; }
+            set { nCarnet = value; }
+        }
+        int nivelestudio;
+        public int NivelEstudio
+        {
+            get { return nivelestudio; }
+            set { nivelestudio = value; }
+        }
+    }
+    public class Universitario:Estudiante
+    {
+        string nombreu;
+        public string NombreU
+        {
+            get { return nombreu; }
+            set { nombreu = value; }
+        }
+        string carrera;
+        public string Carrera
+        {
+            get { return carrera; }
+            set { carrera = value; }
+        }
+        int materias;
+        public int Materias {
+            get { return materias; }
+            set { materias = value; }
+        }
+        int notas;
+        public int Notas
+        {
+            get { return notas; }
+            set { notas = value; }
+        }
+        int cum;
+        public int CUM
+        {
+            get { return cum; }
+            set { cum = value; }
+        }
+    }
+    public class Ingenieria : Estudiante
+    {
+        string nombreproyecto;
+        public string Nombreproyecto
+        {
+            get { return nombreproyecto; }
+            set { nombreproyecto = value; }
+        }
+        decimal totahora;
+        public decimal Horastotal
+        {
+            get { return totahora; }
+            set { totahora = value; }
+        }
+        decimal horacompletas;
+        public decimal Horascompletas
+        {
+            get { return horacompletas; }
+            set { horacompletas = value; }
+        }
+    }
 }
