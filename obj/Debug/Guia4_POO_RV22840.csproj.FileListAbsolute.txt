@@ -1,0 +1,15 @@
+C:\Users\Eduardo\Desktop\Guia4_POO_RV22840\Guia4_POO_RV22840\obj\Debug\Guia4_POO_RV22840.csprojAssemblyReference.cache
+C:\Users\Eduardo\Desktop\Guia4_POO_RV22840\Guia4_POO_RV22840\obj\Debug\Guia4_POO_RV22840.Form1.resources
+C:\Users\Eduardo\Desktop\Guia4_POO_RV22840\Guia4_POO_RV22840\obj\Debug\Guia4_POO_RV22840.Form2.resources
+C:\Users\Eduardo\Desktop\Guia4_POO_RV22840\Guia4_POO_RV22840\obj\Debug\Guia4_POO_RV22840.FrmDocente.resources
+C:\Users\Eduardo\Desktop\Guia4_POO_RV22840\Guia4_POO_RV22840\obj\Debug\Guia4_POO_RV22840.Properties.Resources.resources
+C:\Users\Eduardo\Desktop\Guia4_POO_RV22840\Guia4_POO_RV22840\obj\Debug\Guia4_POO_RV22840.csproj.GenerateResource.cache
+C:\Users\Eduardo\Desktop\Guia4_POO_RV22840\Guia4_POO_RV22840\obj\Debug\Guia4_POO_RV22840.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Desktop\Guia4_POO_RV22840\Guia4_POO_RV22840\bin\Debug\Guia4_POO_RV22840.exe.config
+C:\Users\Eduardo\Desktop\Guia4_POO_RV22840\Guia4_POO_RV22840\bin\Debug\Guia4_POO_RV22840.exe
+C:\Users\Eduardo\Desktop\Guia4_POO_RV22840\Guia4_POO_RV22840\bin\Debug\Guia4_POO_RV22840.pdb
+C:\Users\Eduardo\Desktop\Guia4_POO_RV22840\Guia4_POO_RV22840\obj\Debug\Guia4_POO_RV22840.exe
+C:\Users\Eduardo\Desktop\Guia4_POO_RV22840\Guia4_POO_RV22840\obj\Debug\Guia4_POO_RV22840.pdb
+C:\Users\Eduardo\Desktop\Guia4_POO_RV22840\Guia4_POO_RV22840\obj\Debug\Guia4_POO_RV22840.FrmFiguras.resources
+C:\Users\Eduardo\Desktop\Guia4_POO_RV22840\Guia4_POO_RV22840\obj\Debug\Guia4_POO_RV22840.FrmMenu.resources
+C:\Users\Eduardo\Desktop\Guia4_POO_RV22840\Guia4_POO_RV22840\obj\Debug\Guia4_POO_RV22840.FrmVehiculo.resources
