@@ -73,5 +73,12 @@ namespace Guia4_POO_RV22840
                 }
             }
         }
+
+        private void BtnSalir_Click(object sender, EventArgs e)
+        {
+            Form Menu = new FrmMenu();
+            Menu.Show();
+            this.Hide();
+        }
     }
 }
